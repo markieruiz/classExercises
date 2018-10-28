@@ -1,0 +1,34 @@
+<!-- Loop through 1 to 1000
+    7 % 2 = remainder
+    from 2 to n-1
+
+    if any of the 2 to n-1 have a factorial then it is not prime
+
+-*** From Tom's notes:
+For loop from 1 to 1000
+where index = index
+For loop from 2 to index -1
+Check if modulus of 2 to index -1
+If no remainder it is not a prime number.
+-->
+
+
+<script>
+    for (var index = 1; index <= 100; index++) {
+        var factorial = false;
+        for (var j= 2; j < index; j++) {
+            if (index % j === 0) {
+                factorial = true;
+            break;
+        }
+    }
+    if (!factorial) {
+        console.log(index);
+    }
+}
+
+
+</script>
+
+
+

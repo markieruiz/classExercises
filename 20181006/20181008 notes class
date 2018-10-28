@@ -1,0 +1,24 @@
+20181008 Notes from class
+variables in javascript will be different colors based on datatype, string, int, boolean
+console.log in the browser; to see the variable just type it in the console to see the value
+Alerts- box
+Prompts- ask you for input- string
+Confirms- true or false response- boolean
+
+camel case for variables first letter is lower case, then each word is upper case;
+
+studely case?
+document.write will print it to the page
+"/n" is a new line in javascript
+triple === is cheking values and datatypes
+double == is same value 
+
+array "var zooAnimals = ["Zebra","Rhino","Giraffe","Owl"]
+index starts at 0
+length starts at 1
+
+string is dominant over other variable types
+
+-1 is indexof error
+undefined is an error
+

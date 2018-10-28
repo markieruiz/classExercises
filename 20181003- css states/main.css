@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300i');
+
+h1 {
+ font-family: 'Charmonman', cursive;
+ font-size: 24px;
+ font-weight: 2px;
+
+
+}
+
+p {
+    line-height: 2;
+    letter-spacing:5;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
